@@ -1,0 +1,239 @@
+2022-06-21 04:37:39,185: INFO: utilities.customLogger: *************** Test_001_Login *****************
+2022-06-21 04:37:39,185: INFO: utilities.customLogger: ****Started Home page title test ****
+2022-06-21 04:37:39,185: INFO: utilities.customLogger: ****Opening URL****
+2022-06-21 04:37:42,277: INFO: utilities.customLogger: **** Home page title test passed ****
+2022-06-21 04:37:47,559: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-21 04:37:55,901: ERROR: utilities.customLogger: ****Login test failed ****
+2022-06-21 04:41:06,470: INFO: utilities.customLogger: *************** Test_001_Login *****************
+2022-06-21 04:41:06,470: INFO: utilities.customLogger: ****Started Home page title test ****
+2022-06-21 04:41:06,471: INFO: utilities.customLogger: ****Opening URL****
+2022-06-21 04:41:09,477: INFO: utilities.customLogger: **** Home page title test passed ****
+2022-06-21 04:41:10,840: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-21 04:41:17,907: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-21 04:44:21,592: INFO: utilities.customLogger: *************** Test_001_Login *****************
+2022-06-21 04:44:21,592: INFO: utilities.customLogger: ****Started Home page title test ****
+2022-06-21 04:44:21,592: INFO: utilities.customLogger: ****Opening URL****
+2022-06-21 04:44:40,029: INFO: utilities.customLogger: **** Home page title test passed ****
+2022-06-21 04:44:47,345: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-21 04:45:12,871: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-21 20:53:36,926: INFO: utilities.customLogger: ********* Test_002_DDT_Login *********
+2022-06-21 20:53:36,926: INFO: utilities.customLogger: ****** Verifying Login DDT Test ******
+2022-06-21 20:54:01,059: INFO: utilities.customLogger: ****** Failed ******
+2022-06-21 20:58:21,494: INFO: utilities.customLogger: ********* Test_002_DDT_Login *********
+2022-06-21 20:58:21,494: INFO: utilities.customLogger: ****** Verifying Login DDT Test ******
+2022-06-21 20:58:51,166: INFO: utilities.customLogger: ****** Passed ******
+2022-06-21 20:58:58,574: INFO: utilities.customLogger: ****** Passed ******
+2022-06-21 20:59:04,360: INFO: utilities.customLogger: ****** Passed ******
+2022-06-21 20:59:10,070: INFO: utilities.customLogger: ****** Passed ******
+2022-06-21 20:59:10,070: INFO: utilities.customLogger: ****** Login DDT Test Passed ******
+2022-06-21 20:59:10,145: INFO: utilities.customLogger: ****** End of Login DDt Test ******
+2022-06-21 20:59:10,146: INFO: utilities.customLogger: ****** Completed TC_LoginDDT_002 ******
+2022-06-22 04:47:18,952: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 04:48:05,727: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 04:48:05,728: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 04:59:21,036: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 04:59:27,600: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 04:59:27,600: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:01:50,322: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:02:26,279: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:02:26,279: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:06:43,855: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:06:52,065: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:06:52,065: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:09:25,287: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:09:46,455: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:09:46,456: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:11:23,874: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:11:30,159: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:11:30,159: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:13:58,237: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:14:20,840: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:14:20,841: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:14:23,795: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:16:07,734: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:16:28,589: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:16:28,589: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:16:32,475: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:40:11,094: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:40:43,606: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:40:43,606: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:41:07,919: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:42:03,959: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:42:09,959: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:42:09,959: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:42:14,348: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:45:48,709: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:45:55,068: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:45:55,069: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:45:58,065: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:49:08,462: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-22 05:49:30,647: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-22 05:49:30,648: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-22 05:49:33,572: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-22 05:49:45,238: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-22 05:49:45,238: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-22 05:49:45,388: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-22 05:49:45,440: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-23 03:11:32,173: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:12:17,421: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:12:17,421: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:12:20,729: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:16:44,675: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:17:50,887: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:17:50,887: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:17:52,934: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:23:27,285: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:24:40,269: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:26:52,288: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:29:34,076: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:30:36,361: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:32:36,084: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:32:58,402: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:32:58,402: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:33:00,459: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:35:28,886: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:35:52,632: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:35:52,632: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:35:54,154: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:44:10,580: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:46:52,433: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:47:46,217: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:47:46,217: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:47:48,753: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:53:34,487: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:54:28,321: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:55:08,018: INFO: utilities.customLogger: ******** SearchCustomerByEmail_004 ********
+2022-06-23 03:55:32,854: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 03:55:32,854: INFO: utilities.customLogger: ******** Starting Search Customer By Email ********
+2022-06-23 03:55:35,156: INFO: utilities.customLogger: ******** Searching Customer By Email ID ********
+2022-06-23 03:55:55,353: INFO: utilities.customLogger: ******** TC_SearchCustomerByEmail_004 Finished ********
+2022-06-23 04:06:07,831: INFO: utilities.customLogger: ******** SearchCustomerByName_005 ********
+2022-06-23 04:07:25,482: INFO: utilities.customLogger: ******** Login Successful ********
+2022-06-23 04:07:25,483: INFO: utilities.customLogger: ******** Starting Search Customer By Name ********
+2022-06-23 04:07:29,732: INFO: utilities.customLogger: ******** Searching Customer By Name ********
+2022-06-23 04:07:35,053: INFO: utilities.customLogger: ******** TC_SearchCustomerByName_005 Finished ********
+2022-06-24 00:58:24,136: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 00:58:24,136: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 00:58:24,136: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 00:58:24,136: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 00:58:24,136: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 00:58:46,506: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 00:58:49,776: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 00:58:49,776: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 00:58:49,776: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 00:58:49,776: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 00:58:49,776: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 00:59:00,975: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 00:59:01,530: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 00:59:01,530: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 00:59:01,530: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 00:59:01,530: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 00:59:01,530: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 00:59:01,600: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 00:59:01,600: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 00:59:01,600: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 00:59:01,600: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 00:59:01,600: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 00:59:02,886: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 00:59:02,886: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 00:59:02,886: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 00:59:02,886: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 00:59:02,886: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 00:59:26,218: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 00:59:26,218: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 00:59:26,218: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 00:59:26,218: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 00:59:26,218: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:39:47,425: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:39:47,425: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:39:47,425: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:39:47,425: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:39:47,425: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:40:23,802: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:40:23,802: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:40:23,802: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:40:23,802: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:40:23,802: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:40:23,803: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:40:23,803: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:40:23,803: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:40:23,803: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:40:23,803: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:40:26,602: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:40:26,602: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:40:26,602: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:40:26,602: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:40:26,602: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:40:49,642: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:40:49,642: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:40:49,642: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:40:49,642: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:40:49,642: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:41:09,903: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:41:09,903: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:41:09,903: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:41:09,903: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:41:09,903: INFO: utilities.customLogger: ********* Test_003_AddCustomer *********
+2022-06-24 01:41:15,659: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:41:15,659: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:41:15,659: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:41:15,659: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:41:15,659: INFO: utilities.customLogger: ********* Login Successful *********
+2022-06-24 01:41:15,660: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:41:15,660: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:41:15,660: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:41:15,660: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:41:15,660: INFO: utilities.customLogger: ********* Starting Add Customer Test *********
+2022-06-24 01:41:18,395: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 01:41:18,395: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 01:41:18,395: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 01:41:18,395: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 01:41:18,395: INFO: utilities.customLogger: ********* Providing Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Saving Customer Info *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 01:43:08,955: INFO: utilities.customLogger: ********* Add Customer Validation Started *********
+2022-06-24 01:43:09,102: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 01:43:09,102: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 01:43:09,102: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 01:43:09,102: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 01:43:09,102: INFO: utilities.customLogger: ********* Add Customer Test Passed *********
+2022-06-24 01:43:09,173: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 01:43:09,173: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 01:43:09,173: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 01:43:09,173: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 01:43:09,173: INFO: utilities.customLogger: ********* Ending Test_003_AddCustomer Test *********
+2022-06-24 01:43:10,403: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:43:10,403: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:43:10,403: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:43:10,403: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:43:10,403: INFO: utilities.customLogger: ****Started Login Test****
+2022-06-24 01:43:25,955: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:43:25,955: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:43:25,955: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:43:25,955: INFO: utilities.customLogger: ****Login test passed ****
+2022-06-24 01:43:25,955: INFO: utilities.customLogger: ****Login test passed ****
